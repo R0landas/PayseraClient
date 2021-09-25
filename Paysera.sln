@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B6EFE536-ECE5-46E2-BFDF-58EF6D098F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paysera.RestClient", "src\Paysera.RestClient\Paysera.RestClient.csproj", "{D2E27FDE-501E-465C-9E23-90A115507CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2E27FDE-501E-465C-9E23-90A115507CEF} = {B6EFE536-ECE5-46E2-BFDF-58EF6D098F33}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E27FDE-501E-465C-9E23-90A115507CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E27FDE-501E-465C-9E23-90A115507CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E27FDE-501E-465C-9E23-90A115507CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E27FDE-501E-465C-9E23-90A115507CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

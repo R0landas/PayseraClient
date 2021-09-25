@@ -10,7 +10,10 @@ I have not implemented any response types, that is why the dynamic type is used 
 Only MAC authentication is implemented as I have no idea how the client certificate authentication works and was not required for the project I was working on. If that is something you need, please have a look at the original library and feel free to create a pull request with your implementation.
 
 ## Example usage:
-First of all, you will have to install the package from github
+First of all, you will have to install the package
+```
+dotnet add package PayseraRestClientCommon
+```
 
 ### Creating a Transfer
 ```c#
